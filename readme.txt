@@ -1,1 +1,1 @@
-Deep learning with TensorFlow and Keras
+Mini Projet Deep learning with VGG16 using TensorFlow and Keras
